@@ -1,0 +1,724 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+}
+div#main-container{
+font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+text-align: left;
+color: #444;
+padding: 0;
+border: 0;
+outline: 0;
+vertical-align: baseline;
+background: transparent;
+width: 930px;
+height: 1055px;
+margin: auto;
+}
+div#main-container-2{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    width: 930px;
+    height: 1505px;
+    margin: auto;
+    }
+
+div#header{
+font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+text-align: left;
+color: #444;
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+vertical-align: baseline;
+background: transparent;
+height: 107px;
+position: relative;
+overflow: hidden;
+}
+div.cover{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 500px;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    position: relative;
+    margin-bottom: 10px;
+}
+div.logo{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    display: block;
+    width: 183px;
+    height: 85px;
+}
+div#body.home-page.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    display: block;
+    position: relative;
+    z-index: 2;
+    padding-bottom: 40px;
+    background: url(../images/smudge.jpg) no-repeat right bottom;
+    height: 514px;
+}
+ul.main-nav.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    list-style: none;
+    display: block;
+    position: absolute;
+    bottom: 27px;
+    right: 0px;
+}
+li.menu-item{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    list-style: none;
+    display: block;
+    float: left;
+}
+span.main-sep{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    color: #444;
+    list-style: none;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    display: block;
+    width: 2px;
+    height: 26px;
+    float: left;
+    margin: 0 6px;
+}
+a.menu-link{
+    list-style: none;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    color: #454545;
+    font: 12px/23px Verdana, Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    display: block;
+    height: 23px;
+    float: left;
+    padding: 0 10px;
+    border-bottom: 7px solid #F2F3F6;
+}
+div.cover{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+div#body.home-page.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    display: block;
+    position: relative;
+    z-index: 2;
+    padding-bottom: 40px;
+    background: url(../images/smudge.jpg) no-repeat right bottom;
+}
+div.side-content.left{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    width: 186px;
+    margin-right: 22px;
+    float: left;
+}
+div.ekomonitor-box.page-box.common-box{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    outline: 0;
+    margin-bottom: 10px;
+    display: block;
+    padding: 10px 10px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background: url(../images/white_border.png) repeat-x top #f8f8f8;
+    border: 1px solid #e5e5e5;
+}
+div.primary-column.left{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    float: left;
+    width: 507px;
+}
+span.box-subtitle{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: #a9aaaf;
+    display: block;
+    font-size: 10px;
+}
+div.bar-box.first-stat.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    color: #474646;
+    font-size: 14px;
+    line-height: 15px;
+    margin-top: 12px;
+}
+div.bar-box.second-stat.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    color: #589107;
+    font-size: 14px;
+    line-height: 15px;
+    margin-top: 12px;
+}
+div.bar-box.third-stat.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    color: #063970;
+    font-size: 14px;
+    line-height: 15px;
+    margin-top: 12px;
+}
+span.bar-box-title.left{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    color: #474646;
+    font-size: 14px;
+    line-height: 15px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    float: left;
+    display: block;
+    width: 52px;
+}
+b.right{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    color: #474646;
+    font-size: 14px;
+    line-height: 15px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-weight: bold;
+    float: right;
+    display: block;
+    width: 45px;
+    overflow: hidden;
+    text-align: right;
+}
+div.progres-bar{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    color: #474646;
+    font-size: 14px;
+    line-height: 15px;
+    margin-bottom: 3px;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    display: block;
+    height: 15px;
+    width: 65px;
+    float: left;
+}
+ul.items-list{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    list-style: none;
+}
+li{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    list-style: none;
+    margin-bottom: 15px;
+}
+a.partneri{
+    text-align: left;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 5px 0 10px 10px;
+    font: 20px Verdana, Arial, Helvetica, sans-serif;
+    color: #474646;
+    display: block;
+    background: url(../images/ico_partneri.png) no-repeat right;
+}
+a.galerija{
+    text-align: left;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 5px 0 10px 10px;
+    font: 20px Verdana, Arial, Helvetica, sans-serif;
+    color: #474646;
+    display: block;
+    background: url(../images/ico_galerija.png) no-repeat right;
+}
+a.novine{
+    text-align: left;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 5px 0 10px 10px;
+    font: 20px Verdana, Arial, Helvetica, sans-serif;
+    color: #474646;
+    display: block;
+    background: url(../images/ico_novine3.png) no-repeat right;
+}
+span{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    font-size: 12px;
+    color: #a0a1a5;
+    display: block;
+    padding-bottom: 3px;
+    margin-bottom: 2px;
+}
+div.page-box.common-box{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    margin-bottom: 10px;
+    display: block;
+    background: url(../images/white_border.png) repeat-x top #f8f8f8;
+    border: 1px solid #e5e5e5;
+}
+a.box-link{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    width: 55px;
+    height: 17px;
+    text-align: center;
+    line-height: 17px;
+    background-color: #055091;
+    color: white;
+    font-size: 11px;
+}
+div.secondary-column.right{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    width: 186px;
+    float: right;
+}
+a.all-news-link{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    width: 80px;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    text-transform: uppercase;
+    position: right;
+    bottom: -1px;
+    right: 210px;
+    background-color: #055091;
+}
+div#footer{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0;
+    padding: 0;
+    border-top: 2px solid black;
+    outline: 0;
+    vertical-align: baseline;
+    background-color: #454545;
+    height: 514px;
+    position: relative;
+    z-index: 1;
+}
+div.container{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    width: 880px;
+    padding: 27px 20px 0 30px;
+    margin: auto;
+    position: relative;
+}
+div.detail{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: url(../images/grey.png) no-repeat right;
+    width: 930px;
+    height: 324px;
+    position: absolute;
+    right: 0;
+    top: 0px;
+}
+div.foot-first-row.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    color: white;
+    position: relative;
+}
+div.width-300.left.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    width: 300px;
+    float: left;
+}
+span.item-title{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 35px;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px dotted #a3a3a3;
+    min-width: 230px;
+    width: auto !important;
+    display: block;
+    float: left;
+    padding-bottom: 15px;
+    margin-bottom: 8px;
+}
+div.width-330.left.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    width: 330px;
+    float: left;
+}
+div.width-230.right.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;    
+    background: transparent;
+    display: block;
+    width: 230px;
+    float: right;
+}
+div.foot-second-row.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: #bf6f6f00;
+    display: block;
+    color: white;
+    position: relative;
+}
+div.width-230.left.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    width: 230px;
+    float: left;
+}
+ul.footing{
+    font: normal 77% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0;
+    padding-left: 35px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    list-style: none;
+    clear: both;
+    margin-bottom: 35px;
+}
+span.date{
+    border-bottom: 1px dotted #a3a3a3;
+}
+a.footering{
+    color: #f3e8df;
+}
+div.contact-page-box{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+div.page-heading.common-box{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 0;
+    outline: 0;
+    vertical-align: baseline;
+    height: 47px;
+    line-height: 47px;
+    color: #666;
+    font-size: 22px;
+    padding: 0 0 0 24px;
+    margin-bottom: 10px;
+    border: 1px solid #e5e5e5;
+}
+div.addresses-box.clearfix{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    display: block;
+    padding: 10px 27px 5px 34px;
+}
+address.common-box.left{
+    font: normal 100% Tahoma, Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #444;
+    margin: 0;
+    outline: 0;
+    vertical-align: baseline;
+    font-style: normal;
+    border: 1px solid #e5e5e5;
+    float: left;
+    width: 302px;
+    padding: 12px 0 25px 20px;
+    font-size: 14px;
+}
+
+
+
+
+.topnav .search-container {
+    float: top;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .topnav .search-container button:hover {
+    background: #ccc;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav .search-container {
+      float: none;
+    }
+    .topnav a, .topnav input[type=text], .topnav .search-container button {
+      float: none;
+      display: block;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+      padding: 14px;
+    }
+    .topnav input[type=text] {
+      border: 1px solid #ccc;  
+    }
+}
